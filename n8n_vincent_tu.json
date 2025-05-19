@@ -10,7 +10,7 @@
           "parameters": [
             {
               "name": "key",
-              "value": "AIzaSyBhOHdyb0gwCW-ZcnKYj0PR9NKr6NeVOpk"
+              "value": "Gemini API Key"
             }
           ]
         },
@@ -60,8 +60,8 @@
           "__rl": true,
           "value": "15_ZbUAABQC01t6JaNo7FywF4QX6bkm6i",
           "mode": "list",
-          "cachedResultName": "Zeabur QspSantiago",
-          "cachedResultUrl": "https://drive.google.com/drive/folders/15_ZbUAABQC01t6JaNo7FywF4QX6bkm6i"
+          "cachedResultName": "google driver",
+          "cachedResultUrl": "https://drive.google.com/drive/folders/XXXX"
         },
         "options": {}
       },
